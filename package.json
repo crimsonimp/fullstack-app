@@ -1,0 +1,8 @@
+{
+  "name": "application-q",
+  "version": "1.0.0",
+  "description": "front, back, node, react, graphql",
+  "main": "index.js",
+  "author": "volodymyr.bakay@gmail.com",
+  "license": "MIT"
+}
